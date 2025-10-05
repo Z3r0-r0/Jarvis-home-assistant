@@ -1,3 +1,4 @@
+Note: The program is in Romanian Language
 Instrucțiuni de instalare pentru Jarvis (Windows):
 
 1. Instalează Python 3.10+
